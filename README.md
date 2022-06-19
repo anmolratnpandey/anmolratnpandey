@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anmol Pandey
-- 👀 I’m interested in mashine learning
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning java
 - 📫 reach me anmolratnpandey@gmail.com
 <!---
